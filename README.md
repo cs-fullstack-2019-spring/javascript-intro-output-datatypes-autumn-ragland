@@ -11,6 +11,8 @@ Add JavaScript inline (using <script> tags) that does the following:
 
 * Write the code to log ```My name is YOURNAME and I am YOURAGE``` in the developer console
 
+ JavaScript
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
